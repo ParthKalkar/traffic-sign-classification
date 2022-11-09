@@ -18,3 +18,10 @@ This model can be used in self driving cars which will enable them to automatica
 
 ## Output
 ![image](https://user-images.githubusercontent.com/50231750/200907915-98b0938a-36e3-42d7-be34-b4466ca01e69.png)
+
+## Accuracy and Loss
+![image](https://user-images.githubusercontent.com/50231750/200908696-78f72708-a185-4f05-a873-e6afaa4aef11.png)
+
+
+## Conclusion
+We started with downloading the dataset, preprocessing it, created the model and found out the predictions using the model. During preprocessing we found that this dataset has 43 classes. Model reached an accuracy of 95%+ in just 50 epochs, we can further optimize the model using hyper parameter tuning and reach a higher accuracy. 
