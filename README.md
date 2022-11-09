@@ -4,7 +4,7 @@ In this project, I will use a CNN to build, train and test a traffic sign classi
 ## Scope
 This model can be used in self driving cars which will enable them to automatically recognize traffic signs similarly the driver alert system inside cars will help protect dricers by understanding the traffic signs around them.
 
-## DataSet
+## Dataset
 https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 ## Steps
@@ -18,6 +18,11 @@ https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 8. Plotting the accuracy and loss against each epoch. 
 9. Preprocessing the test data and make predictions on it. 
 10. Visualizing the original and predicted lables for the test images. 
+
+## Run
+1. Clone the repository or download the zip file.
+2. Unzip the file and load the `.ipynb` file to google colab.
+3. Connect to runtime and run all cells.
 
 ## Output
 ![image](https://user-images.githubusercontent.com/50231750/200907915-98b0938a-36e3-42d7-be34-b4466ca01e69.png)
