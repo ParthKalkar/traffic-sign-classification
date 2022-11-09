@@ -15,3 +15,6 @@ This model can be used in self driving cars which will enable them to automatica
 8. Plotting the accuracy and loss against each epoch. 
 9. Preprocessing the test data and make predictions on it. 
 10. Visualizing the original and predicted lables for the test images. 
+
+## Output
+![image](https://user-images.githubusercontent.com/50231750/200907915-98b0938a-36e3-42d7-be34-b4466ca01e69.png)
