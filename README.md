@@ -19,8 +19,11 @@ This model can be used in self driving cars which will enable them to automatica
 ## Output
 ![image](https://user-images.githubusercontent.com/50231750/200907915-98b0938a-36e3-42d7-be34-b4466ca01e69.png)
 
-## Accuracy and Loss
+## Accuracy per Epoch
 ![image](https://user-images.githubusercontent.com/50231750/200908696-78f72708-a185-4f05-a873-e6afaa4aef11.png)
+
+## Loss per Epoch
+![image](https://user-images.githubusercontent.com/50231750/200908890-c6ec1a84-d20a-4c1f-a6f9-5cd600c3ab2e.png)
 
 
 ## Conclusion
