@@ -1,6 +1,9 @@
 # traffic-sign-classification
 In this project, I will use a CNN to build, train and test a traffic sign classification model. I will build this model using TensorFlow and Keras. 
 
+## Scope
+This model can be used in self driving cars which will enable them to automatically recognize traffic signs similarly the driver alert system inside cars will help protect dricers by understanding the traffic signs around them.
+
 ## Steps
 1. Finding Data on Kaggle and laoding it into Google Colab.
 2. Preprocessing the images and visualizing them.
